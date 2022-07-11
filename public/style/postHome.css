@@ -1,0 +1,124 @@
+body {
+    background-color: #DFF0DE;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+
+/* .btn-rounded-full {
+    border-radius: 43%;
+} */
+
+.layer1 {
+    background-color: #F6F6F6;
+    /* background-color: green; */
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    /* position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 100px; */
+}
+
+.container-fluid .perkenalan {
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.container-fluid .page {
+    font-size: 18px;
+    opacity: 0.5;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.container-fluid .row {
+    margin: 15px 0px;
+}
+
+.logo {
+    float: left;
+    width: 60px;
+}
+
+.button-notif {
+    color: #268C29;
+    float: right;
+    margin-top: 13px;
+    border-radius: 35%;
+}
+
+.layer1 .container .fw-bold {
+    font-size: 20px;
+}
+
+.layer1 .container .row .col-4 .card-lahan img {
+    border-radius: 20px;
+    width: 100%;
+    height: 100px;
+}
+
+.layer1 .container .row .col-4 {
+    text-align: center;
+}
+
+.layer1 .container .row .col-4 .luas {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.layer1 .container .row .col-6 .edit-button {
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 21px;
+    height: 66px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    padding: 17px 0px;
+    box-sizing: border-box;
+}
+
+.layer1 .container .row .col-6 .up-button {
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 21px;
+    height: 66px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    padding: 17px 0px;
+    box-sizing: border-box;
+}
+
+.row .container-fluid .tanaman-child {
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.buttom-navbar {
+    background-color: #ffffff;
+    width: 100%;
+    height: 75px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 20px;
+    text-align: center;
+    color: #9A9A9A;
+}
+
+.fa-house,
+.fa-circle-plus,
+.fa-circle-user {
+    opacity: 0.5;
+    cursor: pointer;
+}

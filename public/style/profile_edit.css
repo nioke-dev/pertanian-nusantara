@@ -1,0 +1,117 @@
+body {
+    background-color: #F6F6F6;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+
+/* .btn-rounded-full {
+    border-radius: 43%;
+} */
+
+
+.top-container{
+    background-color: #268C29;
+    height: 200px;    
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    text-align: center;
+}
+
+.container-fluid .page {
+    font-size: 20px;    
+    font-weight: bolder;
+    padding-top: 30px;  
+    color: #ffffff;      
+}
+
+.container-fluid .row {
+    margin: 15px 0px;
+}
+
+.logo {
+    float: left;
+    width: 60px;
+}
+
+.button-notif {
+    color: #268C29;
+    float: right;
+    margin-top: 13px;
+    border-radius: 35%;
+}
+
+.layer1 .container .penampung-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0px auto;
+    margin-top: -100px;
+    border: 5px solid white;    
+    text-align: center;
+    background-color: #268C29;
+}
+
+.layer1 .container .profile-picture
+{
+    width: 100%;
+    height: 100%;
+    /* height: 200px; */
+    /* border-radius: 50%; */
+    /* width: 200px;     */
+    margin: 0px auto;
+    /* margin-top: -79px; */
+    /* border: 5px solid white;     */      
+    clip-path: circle();
+}
+
+.layer1 .container .fw-bold {
+    font-size: 20px;
+    text-align: center;
+}
+label{
+    font-weight: 500;
+}
+
+.layer1 .container .row .col-4 .card-lahan img {
+    border-radius: 20px;
+    width: 100%;
+    height: 100px;
+}
+
+.layer1 .container .row .col-4 {
+    text-align: center;
+}
+
+.layer1 .container .row .col-4 .luas {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.row .container-fluid .tanaman-child {
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 15px 15px;
+    font-weight: 500;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.buttom-navbar {
+    background-color: #ffffff;
+    width: 100%;
+    height: 75px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 20px;
+    text-align: center;
+    color: #9A9A9A;
+}
+
+.fa-house,
+.fa-circle-plus,
+.fa-circle-user {
+    opacity: 0.5;
+    cursor: pointer;
+}
